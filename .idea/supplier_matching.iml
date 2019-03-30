@@ -29,6 +29,7 @@
     <orderEntry type="library" scope="PROVIDED" name="addressable (v2.6.0, Remote: ruby-2.6.2p47 ( revision 67232)-p47) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="archive-zip (v0.12.0, Remote: ruby-2.6.2p47 ( revision 67232)-p47) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v9.0.0, Remote: ruby-2.6.2p47 ( revision 67232)-p47) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.12, Remote: ruby-2.6.2p47 ( revision 67232)-p47) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.3, Remote: ruby-2.6.2p47 ( revision 67232)-p47) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.0.1, Remote: ruby-2.6.2p47 ( revision 67232)-p47) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="byebug (v11.0.1, Remote: ruby-2.6.2p47 ( revision 67232)-p47) [gem]" level="application" />
